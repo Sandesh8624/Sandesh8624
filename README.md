@@ -1,9 +1,5 @@
 ### Hi Developers 👋
 
-[![YouTube Badge]()
-[![Linkedin Badge]()]()
-[![Website Badge]()
-[![Website Badge]()
 
 I'm
 Full Stack Solution Architect
